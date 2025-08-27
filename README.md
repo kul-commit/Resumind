@@ -29,7 +29,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone [https://github.com/adrianhajdin/ai-resume-analyzer.git](https://github.com/kul-commit/Resumind.git)
+git clone https://github.com/kul-commit/Resumind.git)
 cd Resumind
 ```
 
